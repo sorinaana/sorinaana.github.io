@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sorina Ana</title>
-    <link>http://replace-this-with-your-hugo-site.com/</link>
+    <link>https://sorinaana.github.io/</link>
     <description>Recent content on Sorina Ana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Jul 2016 16:15:31 +0300</lastBuildDate>
-    <atom:link href="http://replace-this-with-your-hugo-site.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sorinaana.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>new post</title>
-      <link>http://replace-this-with-your-hugo-site.com/posts/new-post/</link>
+      <link>https://sorinaana.github.io/posts/new-post/</link>
       <pubDate>Sun, 24 Jul 2016 16:15:31 +0300</pubDate>
       
-      <guid>http://replace-this-with-your-hugo-site.com/posts/new-post/</guid>
+      <guid>https://sorinaana.github.io/posts/new-post/</guid>
       <description>&lt;p&gt;first&lt;/p&gt;
 </description>
     </item>
