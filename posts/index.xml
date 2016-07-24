@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sorina Ana</title>
+    <link>http://replace-this-with-your-hugo-site.com/posts/</link>
+    <description>Recent content in Posts on Sorina Ana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jul 2016 16:15:31 +0300</lastBuildDate>
+    <atom:link href="http://replace-this-with-your-hugo-site.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>new post</title>
+      <link>http://replace-this-with-your-hugo-site.com/posts/new-post/</link>
+      <pubDate>Sun, 24 Jul 2016 16:15:31 +0300</pubDate>
+      
+      <guid>http://replace-this-with-your-hugo-site.com/posts/new-post/</guid>
+      <description>&lt;p&gt;first&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
